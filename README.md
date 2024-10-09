@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ben</h1>
 <h3 align="center">A passionate cybersecurity engineer from France</h3>
 
-- 🔭 I’m currently working on **Secuity in IoT**
+- 🔭 I’m currently working on **Security in IoT**
 
 - 🌱 I’m currently learning **Vulnerabilities on docker in docker (DinD)**
 
