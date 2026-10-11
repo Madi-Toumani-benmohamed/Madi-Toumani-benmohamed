@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on:<br>- AWS / Azure infrastructure projects<br>- Docker and Kubernetes labs<br>- CI/CD automation with Jenkins and Ansible<br><br>🌱 I’m currently learning:<br>- Kubernetes administration<br>- Monitoring and observability<br>- Advanced Linux infrastructure<br><br>👯 I’m looking to collaborate on:<br>- Infrastructure automation projects<br>- DevOps and cloud environments<br>- Security-related labs<br><br>💬 Ask me about:<br>- Terraform<br>- Docker<br>- Kubernetes<br>- Linux<br>- CI/CD pipelines<br><br>⚡ Fun fact:<br>Most of my projects start as labs built to test or break something.
+🔭 I’m currently working on:<br>- OpenShift projects<br>- Docker and Kubernetes labs<br>- CI/CD automation with Gitlab<br><br>🌱 I’m currently learning:<br>- Kubernetes administration<br>- Monitoring and observability<br>- Advanced Linux infrastructure<br><br>👯 I’m looking to collaborate on:<br>- Infrastructure automation projects<br>- DevOps and cloud environments<br>- Security-related labs<br><br>💬 Ask me about:<br>- Terraform<br>- Docker<br>- Kubernetes<br>- Linux<br>- CI/CD pipelines<br><br>⚡ Fun fact:<br>Most of my projects start as labs built to test or break something.
 
 
 ## 🌐 Socials:
